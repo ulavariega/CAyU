@@ -1,0 +1,108 @@
+<svg id="Componente" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2012.884" height="1924.326" viewBox="0 0 2012.884 1924.326">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.569" y1="0.108" x2="1.188" y2="1.07" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d61f24"/>
+      <stop offset="1" stop-color="#6d0c0f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.21" y1="0.328" x2="0.877" y2="0.445" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7478"/>
+      <stop offset="1" stop-color="#d61f24"/>
+    </linearGradient>
+    <filter id="Rectángulo_84" x="1161.921" y="403.591" width="188" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#7e76f9" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Bg_Shape" data-name="Bg Shape" d="M1434.427,1800.8c-98.995,98.995-624.91,492.141-779.206-116.611S-64.962,1186.431,117.236,664.605c24.882-2.734,671.367,490.372,671.367,490.372l461.976,414.836S1429.713,1805.515,1434.427,1800.8Z" transform="translate(2440.573 1368.657) rotate(135)" fill="url(#linear-gradient)"/>
+  <path id="Bg_Shape-2" data-name="Bg Shape" d="M1522.045,1801.929s-27.152,206.932-179.4-22.705c-285.109-430.031-746.186-3.138-855.326-419.145S-241.749,1157.032,287.989,727.34c17.6-1.869,465.321,316.239,465.321,316.239l469.23,340.915,402.209,279.565Z" transform="matrix(-0.809, 0.588, -0.588, -0.809, 2502.429, 1557.746)" fill="url(#linear-gradient-2)"/>
+  <g id="Footer" transform="translate(227.921 -2759.409)">
+    <line id="Line" x2="1170" transform="translate(215 3869)" fill="none" stroke="#7a839e" stroke-width="1" opacity="0.1"/>
+    <text id="_55_5539-2198_-_55_5674-8721_ventas_cercasyalambradosunidos.com.mx" data-name="(55) 5539-2198 - (55) 5674-8721
+ventas@cercasyalambradosunidos.com.mx" transform="translate(1170 3659)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">(55) 5539-2198 - (55) 5674-8721</tspan><tspan font-family="Helvetica"><tspan x="0" y="36">ventas@cercasyalambradosunidos.com.mx</tspan></tspan></text>
+    <text id="Ciudad_de_México_y_Estado_de_México" data-name="Ciudad de México y Estado de México" transform="translate(1170 3748)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Ciudad de México y Estado de México</tspan></text>
+    <text id="Contact" transform="translate(1147 3605)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Contact</tspan></text>
+    <text id="Lunes:_9:00_-_18:00_Martes:_9:00_-_18:00_Miércoles:_9:00_-_18:00_Jueves:_9:00_-_18:00_Viernes:_9:00_-_18:00" data-name="Lunes:           9:00 - 18:00
+Martes:         9:00 - 18:00
+Miércoles:    9:00 - 18:00
+Jueves:         9:00 - 18:00
+Viernes:       9:00 - 18:00" transform="translate(850 3659)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" xml:space="preserve">Lunes:           9:00 - 18:00</tspan><tspan x="0" y="36" xml:space="preserve">Martes:         9:00 - 18:00</tspan><tspan x="0" y="72" xml:space="preserve">Miércoles:    9:00 - 18:00</tspan><tspan x="0" y="108" xml:space="preserve">Jueves:         9:00 - 18:00</tspan><tspan x="0" y="144" xml:space="preserve">Viernes:       9:00 - 18:00</tspan></text>
+    <text id="Horario" transform="translate(850 3605)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Horario</tspan></text>
+    <text id="_Quiénes_Somos_Nuestros_Servicios_Precios_Contacto" data-name="¿Quiénes Somos?
+Nuestros Servicios
+Precios
+Contacto" transform="translate(594 3659)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">¿Quiénes Somos?</tspan><tspan x="0" y="36">Nuestros Servicios</tspan><tspan x="0" y="72">Precios</tspan><tspan x="0" y="108">Contacto</tspan></text>
+    <text id="Quick_Links" data-name="Quick Links" transform="translate(594 3605)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Quick Links</tspan></text>
+  </g>
+  <g id="Grupo_1314" data-name="Grupo 1314" transform="translate(229.921 -3711.409)">
+    <text id="Deseas_recibir_ofertas_" data-name="Deseas recibir ofertas?" transform="translate(800 4067)" fill="#42495b" font-size="32" font-family="Poppins-Regular, Poppins"><tspan x="-182.24" y="0">Deseas recibir ofertas?</tspan></text>
+    <text id="Contactanos" transform="translate(800 4018)" fill="#7dc349" font-size="20" font-family="Helvetica"><tspan x="-56.147" y="0">Contactanos</tspan></text>
+    <g id="Grupo_70" data-name="Grupo 70" transform="translate(0 704)">
+      <path id="bg" d="M8.377,0H421.623C426.25,0,430,1.343,430,3V49c0,1.657-3.75,3-8.377,3H8.377C3.75,52,0,50.657,0,49V3C0,1.343,3.75,0,8.377,0Z" transform="translate(485 3418)" fill="#f6f7fb"/>
+      <text id="Déjanos_tu_correo_electrónico" data-name="Déjanos tu correo electrónico" transform="translate(515 3449)" fill="#999" font-size="12" font-family="Poppins-Regular, Poppins" opacity="0.6"><tspan x="0" y="0">Déjanos tu correo electrónico</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -229.92, 3711.41)" filter="url(#Rectángulo_84)">
+      <rect id="Rectángulo_84-2" data-name="Rectángulo 84" width="170" height="52" rx="26" transform="translate(1170.92 409.59)" fill="#7dc349"/>
+    </g>
+    <text id="Suscribir" transform="translate(1026 4153)" fill="#fff" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-34.888" y="0">Suscribir</tspan></text>
+  </g>
+  <text id="Protect_your_family" data-name="Protect your family" transform="translate(545.921 896.188)" fill="#fff" font-size="31" font-family="Helvetica"><tspan x="-128.344" y="0">Protect your family</tspan></text>
+  <g id="Grupo_1305" data-name="Grupo 1305" transform="translate(223.635 -3711.409)">
+    <g id="_003-facebook" data-name="003-facebook" transform="translate(232.286 4691.646)">
+      <g id="Grupo_1283" data-name="Grupo 1283">
+        <path id="Trazado_1205" data-name="Trazado 1205" d="M133.605,6.166V3.924A1.121,1.121,0,0,1,134.727,2.8h1.121V0h-2.242a3.363,3.363,0,0,0-3.363,3.363v2.8H128v2.8h2.242v8.969h3.363V8.969h2.242l1.121-2.8Z" transform="translate(-128)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="_001-twitter-logo-silhouette" data-name="001-twitter-logo-silhouette" transform="translate(341.135 4692.037)">
+      <g id="Grupo_1280" data-name="Grupo 1280" transform="translate(0 0)">
+        <path id="Trazado_1202" data-name="Trazado 1202" d="M23.267,59.618a9.734,9.734,0,0,1-2.741.732,4.691,4.691,0,0,0,2.1-2.569,9.782,9.782,0,0,1-3.033,1.128,4.82,4.82,0,0,0-3.483-1.468,4.711,4.711,0,0,0-4.773,4.646,4.542,4.542,0,0,0,.124,1.059A13.676,13.676,0,0,1,1.622,58.29a4.519,4.519,0,0,0-.646,2.336A4.614,4.614,0,0,0,3.1,64.493,4.872,4.872,0,0,1,.937,63.91v.058a4.685,4.685,0,0,0,3.828,4.556,4.958,4.958,0,0,1-1.258.163,4.7,4.7,0,0,1-.9-.086,4.761,4.761,0,0,0,4.458,3.227,9.742,9.742,0,0,1-5.927,1.986A10.416,10.416,0,0,1,0,73.75a13.758,13.758,0,0,0,7.316,2.091A13.3,13.3,0,0,0,20.9,62.62l-.016-.6A9.4,9.4,0,0,0,23.267,59.618Z" transform="translate(-0.001 -57.441)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="_002-google-plus" data-name="002-google-plus" transform="translate(280.776 4693.606)">
+      <g id="Grupo_1282" data-name="Grupo 1282" transform="translate(0)">
+        <g id="Grupo_1281" data-name="Grupo 1281" transform="translate(0 0)">
+          <path id="Trazado_1203" data-name="Trazado 1203" d="M15.81,7.027H8.432V9.486h4.5A5.272,5.272,0,1,1,11.652,4.2l1.785-1.94A7.9,7.9,0,1,0,7.905,15.81,8.083,8.083,0,0,0,15.81,9.486V7.027Z" fill="#fff"/>
+          <path id="Trazado_1204" data-name="Trazado 1204" d="M4.312,1.509H2.8V0H1.509V1.509H0V2.8H1.509V4.312H2.8V2.8H4.312Z" transform="translate(16.289 5.513)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="instagram" transform="translate(395.984 4709.416) rotate(-90)">
+      <g id="Grupo_1285" data-name="Grupo 1285" transform="translate(0 0)">
+        <g id="Grupo_1284" data-name="Grupo 1284">
+          <path id="Trazado_1209" data-name="Trazado 1209" d="M11.926,0H4.882A4.888,4.888,0,0,0,0,4.882v7.043a4.888,4.888,0,0,0,4.882,4.882h7.043a4.888,4.888,0,0,0,4.882-4.882V4.882A4.888,4.888,0,0,0,11.926,0Zm3.569,11.926a3.573,3.573,0,0,1-3.569,3.569H4.882a3.573,3.573,0,0,1-3.569-3.569V4.882A3.573,3.573,0,0,1,4.882,1.313h7.043a3.573,3.573,0,0,1,3.569,3.569Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_1287" data-name="Grupo 1287" transform="translate(3.874 3.874)">
+        <g id="Grupo_1286" data-name="Grupo 1286">
+          <path id="Trazado_1210" data-name="Trazado 1210" d="M4.53,0a4.53,4.53,0,1,0,4.53,4.53A4.535,4.535,0,0,0,4.53,0Zm0,7.748A3.217,3.217,0,1,1,7.748,4.53,3.221,3.221,0,0,1,4.53,7.748Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_1289" data-name="Grupo 1289" transform="translate(12.343 3.152)">
+        <g id="Grupo_1288" data-name="Grupo 1288">
+          <circle id="Elipse_91" data-name="Elipse 91" cx="0.657" cy="0.657" r="0.657" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="old-handphone" transform="translate(1375.918 887.591)">
+    <path id="Trazado_1213" data-name="Trazado 1213" d="M4.688,4.941,1.242,1.493,2.576.157A.529.529,0,0,1,3.322.15L6.007,2.838a.531.531,0,0,1,0,.75l-.588.587-.547.547A1.507,1.507,0,0,0,4.688,4.941Zm2.835,5.616c-.564-.486-1.105-1-1.631-1.525S4.855,7.964,4.368,7.4A1.7,1.7,0,0,1,4.1,5.711L.563,2.173c-.823.846-.718,2.945.184,4.789a13.275,13.275,0,0,0,1.409,2.2,19.736,19.736,0,0,0,1.686,1.924,18.8,18.8,0,0,0,1.92,1.692,13.279,13.279,0,0,0,2.2,1.406c1.847.9,3.946,1,4.791.176L9.213,10.823A1.705,1.705,0,0,1,7.524,10.557ZM14.771,11.6,12.086,8.916a.535.535,0,0,0-.75,0h0l-.59.589-.544.547a1.651,1.651,0,0,1-.218.181l3.445,3.447q.669-.67,1.337-1.335A.525.525,0,0,0,14.771,11.6Z" transform="translate(0 0)" fill="#fff"/>
+  </g>
+  <g id="envelope" transform="translate(1374.93 871.391)">
+    <g id="Grupo_1292" data-name="Grupo 1292" transform="translate(0 54.82)">
+      <path id="Trazado_1214" data-name="Trazado 1214" d="M1.527,58.46q.3.2,1.82,1.2t2.326,1.531l.377.256q.289.2.479.319t.462.273a2.754,2.754,0,0,0,.511.226,1.481,1.481,0,0,0,.444.075h.018a1.482,1.482,0,0,0,.444-.075,2.756,2.756,0,0,0,.511-.226q.271-.151.462-.273t.479-.319q.288-.2.377-.256l4.155-2.726a4.106,4.106,0,0,0,1.083-1.032,2.133,2.133,0,0,0,.435-1.266,1.252,1.252,0,0,0-.422-.948,1.414,1.414,0,0,0-1-.394H1.421a1.3,1.3,0,0,0-1.052.436A1.632,1.632,0,0,0,0,56.346a1.9,1.9,0,0,0,.488,1.145A4.3,4.3,0,0,0,1.527,58.46Z" transform="translate(0 -54.82)" fill="#fff"/>
+      <path id="Trazado_1215" data-name="Trazado 1215" d="M15.023,185.167q-2.912,1.862-4.422,2.894-.506.352-.821.549a5.188,5.188,0,0,1-.839.4,2.682,2.682,0,0,1-.977.206H7.947a2.683,2.683,0,0,1-.977-.206,5.191,5.191,0,0,1-.839-.4q-.315-.2-.821-.549-1.2-.83-4.413-2.894a4.64,4.64,0,0,1-.9-.73v6.66a1.257,1.257,0,0,0,.417.948,1.409,1.409,0,0,0,1,.394H14.49a1.409,1.409,0,0,0,1-.394,1.257,1.257,0,0,0,.417-.948v-6.66A4.825,4.825,0,0,1,15.023,185.167Z" transform="translate(0 -180.629)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="maps-and-flags" transform="translate(1306.348 974.591)">
+    <g id="Grupo_1293" data-name="Grupo 1293" transform="translate(70.573)">
+      <path id="Trazado_1216" data-name="Trazado 1216" d="M76.111,0a5.544,5.544,0,0,0-5.538,5.538c0,3.789,4.956,9.353,5.167,9.588a.5.5,0,0,0,.742,0c.211-.235,5.167-5.8,5.167-9.588A5.544,5.544,0,0,0,76.111,0Zm0,8.324A2.786,2.786,0,1,1,78.9,5.538,2.789,2.789,0,0,1,76.111,8.324Z" transform="translate(-70.573)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Grupo_1370" data-name="Grupo 1370" transform="translate(-708.976 -1210.39)">
+    <path id="Trazado_1654" data-name="Trazado 1654" d="M1238.318,1896.014V1879a77.981,77.981,0,0,0,0,155.962v-17.014a60.967,60.967,0,1,1,0-121.934" fill="#fff"/>
+    <path id="Trazado_1655" data-name="Trazado 1655" d="M1464.353,2223.051l24.3,18.487,17.713,0,23.068-18.127.657-54.893h-16.132v48.145l-9.226,8.659h-15.147l-8.738-7.036v-50.945h-17.237Z" transform="translate(-217.273 -206.577)" fill="#fff"/>
+    <path id="Trazado_1657" data-name="Trazado 1657" d="M1530.53,1933.161l-8.507-8.507-40.672-40.672-3.874-3.874c-.618-.108-1.242-.207-1.866-.295a78.207,78.207,0,0,0-11.275-.814v73.444h17.014v-19.283h25.116l7.35,7.35v12.408h18.236v-18.236Zm-49.179-8.507v-16.609l16.609,16.609Z" transform="translate(-217.795)" fill="#fff"/>
+  </g>
+</svg>
