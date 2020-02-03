@@ -55,10 +55,11 @@ img{
 }
 
 .container{
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
     margin-top: 1rem;
     display: grid;
+    backface-visibility: hidden;
     justify-content: center;
 }
 .header{
@@ -69,6 +70,8 @@ img{
 .bar_left{
     display: grid;
     grid-template-rows: 15% 85%;
+    animation-name: moveInBottom;
+    animation-duration: 3s;
     
 }
 
@@ -123,6 +126,7 @@ img{
     border-radius: 3rem;
     text-decoration: none;
     font-size: 12px;
+    display: inline-block;
 }
 
 /*estilos para el lado derecho del header*/
@@ -133,6 +137,8 @@ img{
     background-size: 100%;
     background-repeat: no-repeat;
     text-align: center;
+    animation-name: moveInLeft;
+    animation-duration: 3s;
 }
 .menu_bubble2{
     height: 95vh;
@@ -163,8 +169,14 @@ img{
     margin-left: 4rem;
 }
 
+.meet_me{
+    animation-name: moveInRight;
+    animation-duration: 3s;
+}
+
 .meet_us{
-    
+   animation-name: moveInTop;
+   animation-duration: 3s;
 }
 
 .meet_us .btn{
@@ -180,6 +192,8 @@ img{
 .footer{
     grid-template-columns: 100%;
     margin-top: 10rem;
+    animation-name: moveInBottom;
+    animation-duration: 2s;
      
 }
 
@@ -280,22 +294,31 @@ img{
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 3rem;
+    animation-name: moveInbottom;
+    animation-duration: 2s;
 }
 
 .card{
     flex: 0 1 calc(33.33%);
     padding: 3rem;
     text-align: center;
+    animation-name: moveInBottom;
+    animation-duration: 2s;
 }
 .card img{
     margin-bottom: 2rem;
+    animation-name: moveInLeft;
+    animation-duration: 2s;
 }
-.card a{
-    
+
+.card .btn{
+    margin: 0;
+    padding: .2rem 1rem;
 }
 
 .card p{
     font-size: 12px;
+    margin-bottom: 3rem;
 }
 /***********estilos del slider**********/
 
@@ -303,14 +326,16 @@ img{
     background-color: rgb(168, 224, 125);
     grid-template-rows: 20% 80%;
     text-align: center;
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
     padding-left: 2rem;
+    animation-name: moveInLeft;
+    animation-duration: 2s;
 }
 
 .slider h5{
     text-align: center;
-    padding: 1rem;
+    padding: 2rem;
     margin: -2rem;
   
 }
@@ -319,6 +344,7 @@ img{
 }
 .slider .btn{
     margin-left: 0.5rem;
+
 }
 
 .slider h1{
@@ -348,12 +374,14 @@ img{
     font-size: 24px;
     text-align: center;
     color: #7DC349;
-    margin-bottom: -1rem;
+    margin-bottom: -1%;
     
 }
 .precio h5{
     font-weight: 600;
     font-size: 10px;
+    display: inline-block;
+    margin-bottom: 1rem;
 }
 
 .glide__bullet--active{
@@ -366,6 +394,8 @@ img{
 .gallery{
     display: grid;
     grid-template-rows: 20% 80%;
+    animation-name: moveInRight;
+    animation-duration: 3s;
 }
 .gallery_title{
     margin-top: 3rem;
@@ -469,4 +499,57 @@ img{
 .list h3{
     
     margin-left: 1rem;
+}
+/**********animaciones**************/
+
+@keyframes moveInLeft{
+    0% {
+        opacity: 0;
+        transform: translateX(-200px);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes moveInRight{
+    0% {
+        opacity: 0;
+        transform: translateX(200px);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes moveInBottom{
+    0% {
+        opacity: 0;
+        transform: translatey(200px);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+@keyframes moveInTop{
+    0% {
+        opacity: 0;
+        transform: translatey(-200px);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+}
+
+.btn:active{
+    transform: translateY(-1px);
 }
