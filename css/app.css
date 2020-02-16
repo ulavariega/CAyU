@@ -59,7 +59,7 @@ img{
     margin: 0 auto;
     margin-top: 1rem;
     display: grid;
-    backface-visibility: hidden;
+
     justify-content: center;
 }
 .header{
@@ -231,8 +231,7 @@ img{
     margin-top: 5%;
     height: 50vh;
     color: #FFFFFF;
-    background-color: #41a6ff;
-    /*background-image: url(../imagenes/waive2.svg);*/
+    background-image: url(../imagenes/footer.jpeg);
     background-size: cover;
     text-align: center;
 }
